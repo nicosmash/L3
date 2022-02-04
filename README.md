@@ -23,5 +23,4 @@
         - Virtual Lab: 12h30 - 16h30 = 4h00
     * **Friday March 11:**
         - Course: 8h00 - 11h45 = 3h45
-        - Virtual Lab: 13h30 - 16h30 = 3h00
-        - Exam: 10h00 - 13h00 = 3h00
+        - Exam: 13h30 - 16h30 = 3h00
