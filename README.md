@@ -22,7 +22,7 @@
         - [+] Targets: Find target IP address, list all open ports, services and version, find 9 vulnerabilities flags beginning by "FLAG{"
         - [+] Other information: NA
 
-* **Planning: 28 hours**
+## 📢 Planning: 28 hours
     * **Thursday February 3:**
         - Course: 8h00 - 11h45 = 3h45
         - Virtual Lab: 12h30 - 15h30 = 3h00
