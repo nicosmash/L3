@@ -12,10 +12,15 @@
     * **Exam (10%): Report for Windows XP**
     * **Exam (20%): Report for all VM ( - deadline to be defined) + Oral**
 
-VM_207: https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/
-[+] Tags: Reconnaissance, exploit
-[+] Targets: 9 flags beginning by "FLAG{"
-[+] Other information: NA
+## 📢 Virtual Lab : Labs
+* **Easy** :
+    * **VM_XP: On USB key**
+        - [+] Targets: Find target IP address, list all open ports, services and version, find one or more vulnerabilities and exploit one of them to be NT AUTHORITY\System
+        - [+] Other information: Firewall to be disabled
+* **Medium** :
+    * **VM_207: https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/**
+        - [+] Targets: Find target IP address, list all open ports, services and version, find 9 vulnerabilities flags beginning by "FLAG{"
+        - [+] Other information: NA
 
 * **Planning: 28 hours**
     * **Thursday February 3:**
