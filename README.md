@@ -9,8 +9,7 @@
 
 * **Virtual Lab : 17h00** :
     * **Exam (20%): Report a procedure about certificate TP (create and install certificate + secure your website)**
-    * **Exam (10%): Report for Windows XP**
-    * **Exam (20%): Report for all VM ( - deadline to be defined) + Oral**
+    * **Exam (30%): Report for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
 
 ## 📢 Virtual Lab : Labs
 * **Easy** :
