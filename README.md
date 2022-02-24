@@ -19,7 +19,6 @@
 * **Medium** :
     * **VM_207: https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/**
         - [+] Targets: Find target IP address, list all open ports, services and version, find 9 vulnerabilities flags beginning by "FLAG{"
-        - [+] Other information: NA
     * **VM_216: https://www.vulnhub.com/entry/basic-pentesting-1,216/
         - [+] Targets: Find target IP address, list all open ports, services and version, find and exploit 2 vulnerabilities to be root.
 
