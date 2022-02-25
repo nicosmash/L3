@@ -5,11 +5,11 @@
 ## 📢 Information : L3 "Crypto and security for IOT"
 
 * **Course : 11h00 (9h course + 2h00 exam)** : 
-    * **Exam (50%): QCM with about 75 questions**
+    * **Exam (50%) Friday March 11 : QCM with about 75 questions**
 
-* **Virtual Lab : 17h00** :
-    * **Exam (20%): Report a procedure about certificate TP (create and install certificate + secure your website)**
-    * **Exam (30%): Report for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
+* **Virtual Lab : 17h00** : Submission deadline 31/03/202
+    * **Report (20%) a procedure about certificate TP (create and install certificate + secure your website)**
+    * **Report (30%) for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
 
 ## 📢 Virtual Lab : Labs
 * **Easy** :
