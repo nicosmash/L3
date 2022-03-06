@@ -12,6 +12,17 @@
     * **Report (30%) for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
 
 ## 📢 Virtual Lab : Labs
+
+* **Download the latest version of VirtualBox: https://www.virtualbox.org/wiki/Downloads**
+    * If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation, etc. but without assurance that everything works. 
+Many tests were carried out on VirtualBox.
+
+* **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
+    * username: kali
+    * password: kali
+    * I recommand you a "NAT Network" for all VM labs and Kali machines with a specific name and a specific IP range. 
+    * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
+
 * **Easy** :
     * **VM_XP: On USB key**
         - [+] Targets: Find target IP address, list all open ports, services and version, find vulnerabilities and exploit one of them to be NT AUTHORITY\System
