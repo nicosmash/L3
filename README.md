@@ -27,7 +27,7 @@ Many tests were carried out on VirtualBox.
     * **VM_XP: On USB key**
         - [+] Targets: Find target IP address, list all open ports, services and version, find vulnerabilities and exploit one of them to be NT AUTHORITY\System
         - [+] Other information: Firewall to be disabled
-* **Medium** :
+* **Medium** :      
     * **VM_207: https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/**
         - [+] Targets: Find target IP address, list all open ports, services and version, find 9 vulnerabilities flags beginning by "FLAG{"
     * **VM_216: https://www.vulnhub.com/entry/basic-pentesting-1,216/**
