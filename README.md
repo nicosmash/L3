@@ -18,8 +18,8 @@
 Many tests were carried out on VirtualBox.
 
 * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
-    * username: **kali
-    * password: **kali
+    * username: kali
+    * password: kali
     * I recommand you a "NAT Network" for all VM labs and Kali machines with a specific name and a specific IP range. 
     * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
 
