@@ -18,8 +18,8 @@
 Many tests were carried out on VirtualBox.
 
 * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
-    * username: kali
-    * password: kali
+    * username: **kali**
+    * password: **kali**
     * I recommand you a "NAT Network" for all VM labs and Kali machines with a specific name and a specific IP range. 
     * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
 
@@ -30,7 +30,7 @@ Many tests were carried out on VirtualBox.
 * **Medium** :
     * **VM_207: https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/**
         - [+] Targets: Find target IP address, list all open ports, services and version, find 9 vulnerabilities flags beginning by "FLAG{"
-    * **VM_216: https://www.vulnhub.com/entry/basic-pentesting-1,216/
+    * **VM_216: https://www.vulnhub.com/entry/basic-pentesting-1,216/**
         - [+] Targets: Find target IP address, list all open ports, services and version, find and exploit 2 vulnerabilities to be root.
 
 ## 📢 Planning: 28 hours
