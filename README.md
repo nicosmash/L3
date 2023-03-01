@@ -25,4 +25,5 @@ Many tests were carried out on VirtualBox.
         - [+] For each flag found, write on your report "FLAG_x :" and explain how did you find it.
 * **Medium** :      
     * **VM_216: https://www.vulnhub.com/entry/basic-pentesting-1,216/**
-        - [+] Targets: Find target IP address, list all open ports, services and version, find and exploit 2 vulnerabilities to be root.
+        - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
+        - [+] Targets: webadmin, gain access, root
