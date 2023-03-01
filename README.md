@@ -3,7 +3,7 @@
 * **Course : 6h course + 2h exam** : 
     * **Exam (50%) Thursday 23 March : QCM with about 100 questions**
 
-* **Virtual Lab : 20h** : Submission deadline : Thursday 23 March
+* **Virtual Lab : 20h : Submission deadline : Thursday 23 March**
     * **Report (20%) a procedure about certificate TP (create and install certificate + secure your website)**
     * **Report (30%) for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
 
