@@ -1,7 +1,5 @@
 ## 📢 Information : L3 "Crypto and security"
 
-Discord Link : https://discord.gg/G7SsfAQQS9 
-
 * **Course : 6h course + 2h exam** : 
     * **Exam (50%) Thursday 23 March : QCM with about 100 questions**
 
@@ -29,3 +27,7 @@ Many tests were carried out on VirtualBox.
     * **VM_216: https://www.vulnhub.com/entry/basic-pentesting-1,216/**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
+
+## 📢 Planning :
+   * **Thursday 2 March: 8 hours**
+   * **Thursday 9 March: 3 hours**
