@@ -28,6 +28,23 @@ Many tests were carried out on VirtualBox.
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
 
+### Setup your environment ###
+* **Create a NAT Network using VirtualBox GUI**
+
+**1. Open VirtualBox Preferences (File -> Preferences) and go to Network Tab.**
+![image](https://user-images.githubusercontent.com/5543119/164250582-571514ea-03b7-4854-8cb7-d7181ba461b4.png)
+
+**2. Click on the + icon on right side (Adds new NAT network). It will create a new NAT Network without asking any questions.**
+![image](https://user-images.githubusercontent.com/5543119/164250638-2b6537ec-66c0-4c2d-8d5c-1b727825588e.png)
+
+**3. You can modify the Network Name, Network CIDR etc by clicking modify button (or double click the NAT Network).**
+![image](https://user-images.githubusercontent.com/5543119/164250690-11ac866e-3d0d-49ee-947a-4dcb37ec46b7.png)
+
+* **Use NAT Network for Virtual Machines**
+
+**1. Once you have created NAT Network, assign the same for the VM Network.**
+![image](https://user-images.githubusercontent.com/5543119/164250865-b3733244-6b80-441c-b52f-ae3e1b4b27a4.png)
+
 ## 📢 Planning :
    * **Thursday 2 March: 8 hours**
    * **Thursday 9 March: 3 hours**
