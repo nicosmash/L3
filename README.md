@@ -1,5 +1,7 @@
 ## 📢 Information : L3 "Crypto and security"
 
+Discord Link : https://discord.gg/G7SsfAQQS9 
+
 * **Course : 6h course + 2h exam** : 
     * **Exam (50%) Thursday 23 March : QCM with about 100 questions**
 
