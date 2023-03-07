@@ -47,4 +47,6 @@ Many tests were carried out on VirtualBox.
 
 ## 📢 Planning :
    * **Thursday 2 March: 8 hours**
-   * **Thursday 9 March: 3 hours**
+   * **Thursday 9 March: 7 hours**
+   * **Thursday 16 March: 7 hours**
+   * **Thursday 30 March: 6 hours**
